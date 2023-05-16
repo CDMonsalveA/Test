@@ -7,5 +7,4 @@
 ## Author
 - [Cristian Monsalve](https://github.com/CDMonsalveA)
 ## Description
-This is a simple ecommerce project built with Django. It has the following features:
-- User registration and login
+Enunciado: Generar historias de usuario, un solo modelo con las generalidades para un e-commerce, desde la premisa que un e-commerce tiene las mismas funcionalidades independientemente que sean e-commerce diferentes, como productos, inventarios, usuarios, compradores, órdenes de compra... para finalmente realizar el MER con su respectiva normalización. 
